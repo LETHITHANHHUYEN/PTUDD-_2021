@@ -1,0 +1,12 @@
+{
+  "name": "OnlineShop",
+  "displayName": "OnlineShop",
+  "expo": {
+    "name": "OnlineShop",
+    "slug": "OnlineShop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
